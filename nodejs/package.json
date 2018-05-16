@@ -1,0 +1,14 @@
+{
+  "name": "adrienallemand_labo_res4",
+  "version": "1.0.0",
+  "description": "-",
+  "main": "musician.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "adrien allemand",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^3.2.1"
+  }
+}
